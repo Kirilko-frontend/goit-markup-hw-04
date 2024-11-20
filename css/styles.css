@@ -476,11 +476,11 @@ footer{
 }
 
 .footer-discription{
-    justify-content: baseline;
     margin-right: 120px;
 }
 
 .container.content{
+    justify-content: baseline;
     display: flex;
 }
 /*  */
