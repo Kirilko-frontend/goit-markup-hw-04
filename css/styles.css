@@ -349,7 +349,6 @@ color: #fff;
     row-gap: 48px;
     display: flex;
     flex-wrap: wrap;
-    padding-bottom: 120px;
 }
 
 .portfolio-items:hover .overlay {
